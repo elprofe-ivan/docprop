@@ -1,8 +1,21 @@
 \begin{thebibliography}{}
 
-\bibitem[L{\"a}mmel 2007]{mapreduce-revisited}
-L{\"a}mmel, R. (2007).
-\newblock Google's mapreduce programming model -- revisited.
-\newblock {\em Science of Computer Programming}.
+\bibitem[Fricke and Rasko 2014]{fricke2014bacterial}
+Fricke, W.~F. and Rasko, D.~A. (2014).
+\newblock Bacterial genome sequencing in the clinic: bioinformatic challenges
+  and solutions.
+\newblock {\em Nature Reviews Genetics}, 15(1):49--55.
+
+\bibitem[Schadt et~al. 2010]{schadt2010computational}
+Schadt, E.~E., Linderman, M.~D., Sorenson, J., Lee, L., and Nolan, G.~P.
+  (2010).
+\newblock Computational solutions to large-scale data management and analysis.
+\newblock {\em Nature Reviews Genetics}, 11(9):647--657.
+
+\bibitem[Stephens et~al. 2015]{stephens2015big}
+Stephens, Z.~D., Lee, S.~Y., Faghri, F., Campbell, R.~H., Zhai, C., Efron,
+  M.~J., Iyer, R., Schatz, M.~C., Sinha, S., and Robinson, G.~E. (2015).
+\newblock Big data: astronomical or genomical?
+\newblock {\em PLoS Biol}, 13(7):e1002195.
 
 \end{thebibliography}
